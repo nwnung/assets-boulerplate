@@ -1,7 +1,9 @@
+![main-page](/hero.png)
+
 # MAIN ASSETS
 
-- ui boulerplate
+- ui boulerplate with nextjs 15 app router, shadcn, tailwind.
 
-## LIB
+## UTILS
 
 - SUPABASE CLIENT INIT
