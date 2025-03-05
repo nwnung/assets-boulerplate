@@ -1,9 +1,22 @@
-![main-page](/hero.png)
+![main-page](public/hero.png)
 
-# MAIN ASSETS
+## Core assets JS
 
-- ui boulerplate with nextjs 15 app router, shadcn, tailwind.
+ui boulerplate with nextjs 15 app router, shadcn, tailwind.
 
-## UTILS
+### UTILS
 
 - SUPABASE CLIENT INIT
+
+### Instalation
+
+```
+npm install
+```
+
+### Production
+
+```
+npm run build
+npm run start
+```
