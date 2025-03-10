@@ -1,8 +1,14 @@
+<<<<<<< HEAD
 import { Button } from "@/components/ui/button";
 
 const FeatureOne = () => {
   return (
     <section className="py-16 px-6">
+=======
+const FeatureOne = () => {
+  return (
+    <section className="py-8 px-6">
+>>>>>>> v2
       <div className="bg-white rounded-2xl shadow-lg p-10 max-w-6xl mx-auto">
         <span className="text-sm font-medium bg-gray-100 px-3 py-1 rounded-full mb-4 inline-block">
           30+ Data Filters
